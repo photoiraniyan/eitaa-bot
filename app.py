@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-# توکن ربات (توجه: bot اول توکن را ننویس)
+# توکن ربات 
 TOKEN = "89153:02dc7632-bc92-4705-a8b0-4ce3d225b253"
 API_URL = f"https://api.eitaa.com/bot{TOKEN}"
 
